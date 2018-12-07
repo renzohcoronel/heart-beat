@@ -1,0 +1,56 @@
+
+
+# compiled output
+hear-beat/dist
+hear-beat/dist-server
+hear-beat/tmp
+hear-beat/out-tsc
+
+# dependencies
+hear-beat/node_modules
+hear-beat/package-lock.json
+hear-beat-api/node_modules
+hear-beat-api/public
+
+
+# IDEs and editors
+hear-beat/.idea
+hear-beat/.project
+hear-beat/.classpath
+hear-beat/.c9/
+hear-beat/*.launch
+hear-beat/.settings/
+hear-beat/*.sublime-workspace
+
+# IDE - VSCode
+hear-beat/.vscode/*
+hear-beat/!.vscode/settings.json
+hear-beat/!.vscode/tasks.json
+hear-beat/!.vscode/launch.json
+hear-beat/!.vscode/extensions.json
+
+hear-beat-api/.vscode/*
+hear-beat-api/!.vscode/settings.json
+hear-beat-api/!.vscode/tasks.json
+hear-beat-api/!.vscode/launch.json
+hear-beat-api/!.vscode/extensions.json
+# misc
+hear-beat/.sass-cache
+hear-beat/connect.lock
+hear-beat/coverage
+hear-beat/libpeerconnection.log
+hear-beat/npm-debug.log
+hear-beat/testem.log
+hear-beat/typings
+
+# e2e
+hear-beat/e2e/*.js
+hear-beat/e2e/*.map
+
+# System Files
+hear-beat/.DS_Store
+hear-beat/Thumbs.db
+hear-beat.code-workspace
+package-lock.json
+
+
